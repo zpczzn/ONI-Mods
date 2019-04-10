@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggerStorageMod", "BiggerStorageMod.csproj", "{B372F3CC-7363-41E1-B9D4-4B1455E5D6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B372F3CC-7363-41E1-B9D4-4B1455E5D6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B372F3CC-7363-41E1-B9D4-4B1455E5D6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B372F3CC-7363-41E1-B9D4-4B1455E5D6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B372F3CC-7363-41E1-B9D4-4B1455E5D6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE65FC6-3331-4D30-B18E-FDB06967D0B8}
+	EndGlobalSection
+EndGlobal
